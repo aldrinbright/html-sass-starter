@@ -1,0 +1,26 @@
+/node_modules
+package-lock.json
+*~
+.DS_Store
+.vscode/
+.idea/
+.tmp/
+*.class
+*.war
+*.jar
+target/
+dist/
+build/
+bin/
+.project
+.classpath
+.settings/
+.idea/
+.vscode/
+logs/
+*.log
+
+# Ignore generated CSS build steps
+assets/css/style.comp.css
+assets/css/style.concat.css
+assets/css/style.prefix.css

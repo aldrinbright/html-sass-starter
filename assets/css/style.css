@@ -1,0 +1,28 @@
+*,
+*::after,
+*::before {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box; }
+
+html {
+  font-size: 62.5%;
+  font-family: serif;
+  font-weight: 500;
+  font-optical-sizing: auto;
+  font-style: normal; }
+  @media only screen and (max-width: 991px) {
+    html {
+      font-size: 50%; } }
+  @media only screen and (max-width: 769px) {
+    html {
+      font-size: 62.5%; } }
+  @media only screen and (max-width: 320px) {
+    html {
+      font-size: 50%; } }
+
+body {
+  background-color: #fff;
+  color: #d8ab62;
+  overflow-x: hidden;
+  position: relative; }
