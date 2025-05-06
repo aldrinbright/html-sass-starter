@@ -24,3 +24,6 @@ npm install
 ```bash
 
 npm start
+```
+
+⚠️ Don’t git clone this repo. Use the "Use this template" button above instead to create your own project with a clean Git setup.
