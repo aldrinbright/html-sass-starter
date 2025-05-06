@@ -1,7 +1,7 @@
 {
-  "name": "waterfall",
+  "name": "html-sass-starter",
   "version": "1.0.0",
-  "description": "waterfall",
+  "description": "html-sass-starter",
   "main": "index.js",
 "scripts": {
   "devserver": "npx live-server",
@@ -15,7 +15,7 @@
 
   "build:css": "npm-run-all compile:sass concat:css prefix:css compress:css"
 },
-  "author": "saddab",
+  "author": "Aldrin B",
   "license": "ISC",
   "devDependencies": {
     "autoprefixer": "^10.4.13",
