@@ -14,5 +14,8 @@ A minimal and flexible HTML + Sass starter kit with live reload and automated CS
 ```bash
 git clone https://github.com/aldrinbright/html-sass-starter.git
 
+```
+
+```bash
 cd html-sass-starter
 npm install
