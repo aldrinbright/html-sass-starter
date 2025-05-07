@@ -19,6 +19,7 @@ git clone https://github.com/aldrinbright/html-sass-starter.git
 ```bash
 cd html-sass-starter
 npm install
+npm start
 ```
 
 ```bash
